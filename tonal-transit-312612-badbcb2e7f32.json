@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tonal-transit-312612",
+  "private_key_id": "badbcb2e7f32c4bafce34ffd8540bb4d2e4b1e00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvPVB8b3iFojlQ\nhb95IxzieUiTPMvcm5fJrn5moPFhOlm03abXCNh321mY7p80dZAJDewRYBhFj69R\nIfSwimjaXsudr+G+hGSEVYUHDTNUqu+QUn2uMXLNImjhS61rfOaoj+eBqa4PmeVc\niaic3l/de8TFeMLKDap+AL88yOATTuD/anZkjn+bhrYmR5yZ68bDtdwvnMdWXRJz\n45nnQDXwnqtTeKalwDCRFFgsTYfT8c7mkEXMjxPYCT4BwlNY73rhvlxkDUBv5VeJ\n3r2qf0lsPsqsfIQvLy4uhotDGgNDD8W4SmxaTV58dS6dfBLed/d5v4QdDVkhHAXB\ni9YU4rrzAgMBAAECggEAAVFcrYY6WXZDuskCMbrArZLZ+SHZSMRJ3j+F382TsfVZ\nefzgegBk34uwzj7lzGHEh2O9IZRIe+YWnrpUSeDIlb/2SyTWKOppEqE4l7COQpCo\nluPBql1Cj1yrVAZ6gzse46pCUl5Pr73SPEt9H1kYgf0v7twgQOoP9XJ977XgNczN\nsSp/Q4d1pPW4jFne5oKQaj1PdU1ku97zgfhj4zlNQfK3JSHr8kVEpVSJ236Ift5z\njCQAb9SsgSWim9O5JvbMeBb97fMl/W6u0lFzWEtMZ1QiAqEoocoY3/Lm5nZUuPeE\n+yjuPnp6O7vH/XKl/8zRHHy97DU51PuW8WA4gIbbTQKBgQDgjr8kx2Ob+zfUHj3g\ns5D1YEhZ+2nhd5WIW193dj7bVEZpTgb0477eZ9yK0mkKclhlI0I7BEPib5izGJxb\nPhRmKLrJdrWue47eCTb8Ed5m5Ghw6qG2GGlIFFHVkDdI3db6Pp4u2e5Zk8T8nwqc\nAQ2eYF395gvOHp4XnRVGVZCNHQKBgQDHxsOCRp4xf3qphH0sIYIaNMxBGlstew+U\n6ZRVmlzDzFmA3KS5GtDdEBceDJnj7igut48deEbTXGa3HXxdxh6MJqTZBPgGnDCk\nMJ7YjQDyscsRcrpplQIjd0k/w4Awsef0pNrs/UnKuNh+6VkzhXBVor0RFdTf7Eqe\n3w/u34+7TwKBgQDM0yeiYoSHCFRaFOOYC/IS/ym/ecWQNMWeRMoFa0PWRz6aWuOZ\niArXTqEptta9AqOCTPDiZ/eLmQMNiUtFJpDwxgHqNW9uoaElAf63WY0lCP4C0OGD\n+Sw+5NnoFM14l3C5fVhHn9z6tACf9Gl29rb3WSsipizqa58EJvH6350kOQKBgHdR\n0R3zXbLEqBetiTGdhd5vIHvV6RVeBe10IWOLgdJ0MBUWM9BXIt6WKKiK8DNB4IAe\npHz+hJbi/npqQwijN0WQIy93l0gja631WDqQ5TsPU/FE6+/5zsAuE/LgqqTq7Vai\nTBv2IGfTRYNvjhaGoZSUUYZt2qovsFX5dsO+hVNjAoGAYfWYr0nXGtG1lHJX4QNZ\njhTObVlVXyksNzuSDk1zhvorHcoiDY5nVp80dDIna/VkzXTPWin2BAs37xzW4/qh\nR6D8BXcpye+IfXWKxIXyxJ2AIeLFnSta1Mg2kX3cIsPd45YJREgnmHRoa2YrGboL\nyAvXP6TmX73cvERHf5JS1B4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "seeara-speech@tonal-transit-312612.iam.gserviceaccount.com",
+  "client_id": "100732216129097652122",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seeara-speech%40tonal-transit-312612.iam.gserviceaccount.com"
+}
